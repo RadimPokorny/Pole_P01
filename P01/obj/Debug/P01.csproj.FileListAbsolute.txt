@@ -1,0 +1,10 @@
+G:\Programko\C#\07 Pole\P01\bin\Debug\P01.exe.config
+G:\Programko\C#\07 Pole\P01\bin\Debug\P01.exe
+G:\Programko\C#\07 Pole\P01\bin\Debug\P01.pdb
+G:\Programko\C#\07 Pole\P01\obj\Debug\P01.csprojAssemblyReference.cache
+G:\Programko\C#\07 Pole\P01\obj\Debug\P01.Form1.resources
+G:\Programko\C#\07 Pole\P01\obj\Debug\P01.Properties.Resources.resources
+G:\Programko\C#\07 Pole\P01\obj\Debug\P01.csproj.GenerateResource.cache
+G:\Programko\C#\07 Pole\P01\obj\Debug\P01.csproj.CoreCompileInputs.cache
+G:\Programko\C#\07 Pole\P01\obj\Debug\P01.exe
+G:\Programko\C#\07 Pole\P01\obj\Debug\P01.pdb
